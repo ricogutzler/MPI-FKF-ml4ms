@@ -1,4 +1,7 @@
 # MPI-FKF-ml4ms
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ricogutzler/MPI-FKF-ml4ms/master)
+
 studies in data science and machine learning
 
 * (0) [intro on how to do math with Python](https://github.com/ricogutzler/MPIFKF_studygroup/blob/master/0_math-in-pyhton.ipynb)
