@@ -2,7 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ricogutzler/MPI-FKF-ml4ms/master)
 
-studies in data science and machine learning
+Studies in data science and machine learning
+The notebooks are best viewed in the nbviewer, where the images are displayed correctly.
 
 * (0) [intro on how to do math with Python](https://github.com/ricogutzler/MPIFKF_studygroup/blob/master/0_math-in-pyhton.ipynb)
       ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/0_math-in-pyhton.ipynb))
@@ -12,3 +13,5 @@ studies in data science and machine learning
       ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/2_regression.ipynb))
 * (3) [linear regression with a perceptron](https://github.com/ricogutzler/MPI-FKF-ml4ms/blob/master/3_perceptron_regressor.ipynb)
       ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/3_perceptron_regressor.ipynb))
+* (4) [classification with a perceptron](https://github.com/ricogutzler/MPI-FKF-ml4ms/blob/master/4_perceptron_classification.ipynb)
+      ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/4_perceptron_classification.ipynb))
