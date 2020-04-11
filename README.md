@@ -2,8 +2,9 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ricogutzler/MPI-FKF-ml4ms/master)
 
-Studies in data science and machine learning
-The notebooks are best viewed in the nbviewer, where the images are displayed correctly.
+Studies in data science and machine learning <br>
+The notebooks are best viewed in the nbviewer, where the images are displayed correctly. <br>
+For an interactive version of the notebooks, use the Binder link at the top of this document. This starts a web page in your browser in which you can execute the code without having to install Python on your local machine.
 
 * (0) [intro on how to do math with Python](https://github.com/ricogutzler/MPIFKF_studygroup/blob/master/0_math-in-pyhton.ipynb)
       ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/0_math-in-pyhton.ipynb))
