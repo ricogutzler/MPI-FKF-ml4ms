@@ -1,0 +1,11 @@
+name: ml4ms
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - sklearn
+  - matplotlib
+  - pandas
+  - seaborn
+  - mpl_toolkits
