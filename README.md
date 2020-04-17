@@ -16,3 +16,5 @@ For an interactive version of the notebooks, use the Binder link at the top of t
       ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/3_perceptron_regressor.ipynb))
 * (4) [classification with a perceptron](https://github.com/ricogutzler/MPI-FKF-ml4ms/blob/master/4_perceptron_classification.ipynb)
       ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/4_perceptron_classification.ipynb))
+* (5) [perceptrons and logic gates](https://github.com/ricogutzler/MPI-FKF-ml4ms/blob/master/5_Perceptron_and_Logic_Gates.ipynb)
+      ([nbviewer](https://nbviewer.jupyter.org/github/ricogutzler/MPI-FKF-ml4ms/blob/master/5_Perceptron_and_Logic_Gates.ipynb))
