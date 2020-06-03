@@ -1,4 +1,4 @@
-Reading List
+## Reading List
 
 * **Machine learning for molecular and materials science** K.T. Butler, D.W. Davies, H. Cartwright, O. Isayev & A. Walsh, Nature 559, 547–555 (2018). [https://doi.org/10.1038/s41586-018-0337-2](https://doi.org/10.1038/s41586-018-0337-2)
 
@@ -11,3 +11,5 @@ Reading List
 * **Quantum chemistry structures and properties of 134 kilo molecules** R. Ramakrishnan, P.O. Dral, M. Rupp & O.A. von Lilienfeld, Sci Data 1, 140022 (2014). [https://doi.org/10.1038/sdata.2014.22](https://doi.org/10.1038/sdata.2014.22)
 
 * **Machine learning and the physical sciences** G. Carleo, I. Cirac, K. Cranmer, L. Daudet, M. Schuld, N. Tishby, L. Vogt-Maranto & L. Zdeborová, Rev. Mod. Phys. 91, 045002 (2019) [https://link.aps.org/doi/10.1103/RevModPhys.91.045002](https://link.aps.org/doi/10.1103/RevModPhys.91.045002)
+
+* **Dive into Deep Learning** A. Zhang, Z.C. Lipton, M. Li & A.J. Smola (2020) [https://d2l.ai](https://d2l.ai)
