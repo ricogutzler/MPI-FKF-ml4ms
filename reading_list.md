@@ -6,6 +6,8 @@
 
 * **Machine learning in materials science** J. Wei, X. Chu, X.‐Y. Sun, K. Xu, H.‐X. Deng, J. Chen, Z. Wei & M. Lei, InfoMat 1, 338 (2019). [https://doi.org/10.1002/inf2.12028](https://doi.org/10.1002/inf2.12028)
 
+* **Materials science in the artificial intelligence age: high-throughput library generation, machine learning, and a pathway from correlations to the underpinning physics** R.K. Vasudevan, K. Choudhary, A. Mehta, R. Smith, G. Kusne, F. Tavazza, L. Vlcek, M. Ziatdinov, S.V. Kalinin & J. Hattrick-Simpers, MRS Communications 9, 821 (2019). [https://doi.org/10.1557/mrc.2019.95](https://doi.org/10.1557/mrc.2019.95)
+
 * **Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning** M. Rupp, A. Tkatchenko, K.-R. Müller & O.A. von Lilienfeld, Phys. Rev. Lett. 108, 058301 (2012) [https://doi.org/10.1103/PhysRevLett.108.058301](https://doi.org/10.1103/PhysRevLett.108.058301)
 
 * **Quantum chemistry structures and properties of 134 kilo molecules** R. Ramakrishnan, P.O. Dral, M. Rupp & O.A. von Lilienfeld, Sci Data 1, 140022 (2014). [https://doi.org/10.1038/sdata.2014.22](https://doi.org/10.1038/sdata.2014.22)
