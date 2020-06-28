@@ -12,6 +12,8 @@
 
 * **Quantum chemistry structures and properties of 134 kilo molecules** R. Ramakrishnan, P.O. Dral, M. Rupp & O.A. von Lilienfeld, Sci Data 1, 140022 (2014). [https://doi.org/10.1038/sdata.2014.22](https://doi.org/10.1038/sdata.2014.22)
 
-* **Machine learning and the physical sciences** G. Carleo, I. Cirac, K. Cranmer, L. Daudet, M. Schuld, N. Tishby, L. Vogt-Maranto & L. Zdeborová, Rev. Mod. Phys. 91, 045002 (2019) [https://link.aps.org/doi/10.1103/RevModPhys.91.045002](https://link.aps.org/doi/10.1103/RevModPhys.91.045002)
+* **Atomic structures and orbital energies of 61,489 crystal-forming organic molecules** A. Stuke, C. Kunkel, D. Golze, M. Todorović, J.T. Margraf, K. Reuter, P. Rinke & H. Oberhofer, Sci Data 7, 58 (2020). [https://www.nature.com/articles/s41597-020-0385-y](https://www.nature.com/articles/s41597-020-0385-y) 
+
+* **Machine learning and the physical sciences** G. Carleo, I. Cirac, K. Cranmer, L. Daudet, M. Schuld, N. Tishby, L. Vogt-Maranto & L. Zdeborová, Rev. Mod. Phys. 91, 045002 (2019). [https://link.aps.org/doi/10.1103/RevModPhys.91.045002](https://link.aps.org/doi/10.1103/RevModPhys.91.045002)
 
 * **Dive into Deep Learning** A. Zhang, Z.C. Lipton, M. Li & A.J. Smola (2020) [https://d2l.ai](https://d2l.ai)
